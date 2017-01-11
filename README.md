@@ -12,4 +12,4 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 *****
 
 ##Week #2:
-*
+* User input: buttons and forms [(notes)](https://www.evernote.com/l/ATEaoG72QwVPj7Xltdfa7F3aRWp9AsHzonY)
