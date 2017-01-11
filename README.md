@@ -8,3 +8,8 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 - Navigation and navigation bar [(notes)](https://www.evernote.com/l/ATFixSFcAuRFMLimRY2LOX80JaugBWK_E0c)
 
 :point_up: Assignment 1 Done.
+
+*****
+
+##Week #2:
+*
