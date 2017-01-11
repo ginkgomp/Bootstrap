@@ -4691,6 +4691,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   color: #444;
 }
 .breadcrumb {
+    width: 2000px;
   padding: 8px 15px;
   margin-bottom: 20px;
   list-style: none;
