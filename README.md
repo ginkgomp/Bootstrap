@@ -15,3 +15,4 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 * User input: buttons and forms [(notes)](https://www.evernote.com/l/ATEaoG72QwVPj7Xltdfa7F3aRWp9AsHzonY)
 - Displaying content: Tables, Panels, Wells [(notes)](https://www.evernote.com/l/ATFb07mfsoRHyb4OITTxcjk2-AmWiI6JC-Q)
 * Images and Media [(notes)](https://www.evernote.com/l/ATGVhL9qyoBOMq7xZ2sevMb7jXFrU3PWmC4)
+- Alerting Users [(notes)](https://www.evernote.com/l/ATHtXp0Pf7BBMows2ztCKY1UHOkI0ejlfSY)
