@@ -24,7 +24,10 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 ##Week #3:
 <<<<<<< HEAD
 * Bootstrap JS Overview [(notes)](https://www.evernote.com/l/ATHDwy6XXbdLYouevIZK9PBuvxsKpaMWcO4)
+<<<<<<< HEAD
 - Tabs and Tabbed Navigation[(notes)] (https://www.evernote.com/l/ATGNcoQnvvdOCL8CUrDXU1Sfo1APMJK_dl4)
 =======
 *
 >>>>>>> parent of 7893824... Update README.md
+=======
+>>>>>>> parent of 0f53cdf... Update README.md
