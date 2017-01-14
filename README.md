@@ -22,4 +22,4 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 *****
 
 ##Week #3:
-*
+* Bootstrap JS Overview [(notes)](https://www.evernote.com/l/ATHDwy6XXbdLYouevIZK9PBuvxsKpaMWcO4)
