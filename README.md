@@ -16,3 +16,5 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 - Displaying content: Tables, Panels, Wells [(notes)](https://www.evernote.com/l/ATFb07mfsoRHyb4OITTxcjk2-AmWiI6JC-Q)
 * Images and Media [(notes)](https://www.evernote.com/l/ATGVhL9qyoBOMq7xZ2sevMb7jXFrU3PWmC4)
 - Alerting Users [(notes)](https://www.evernote.com/l/ATHtXp0Pf7BBMows2ztCKY1UHOkI0ejlfSY)
+
+:point_up: Assignment 2 Done.
