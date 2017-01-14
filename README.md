@@ -25,3 +25,4 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 * Bootstrap JS Overview [(notes)](https://www.evernote.com/l/ATHDwy6XXbdLYouevIZK9PBuvxsKpaMWcO4)
 - Tabs and Tabbed Navigation [(notes)](https://www.evernote.com/l/ATGNcoQnvvdOCL8CUrDXU1Sfo1APMJK_dl4)
 * Hide and Seek: Collapse, Accordion, Scrollspy and Affix [(notes)](https://www.evernote.com/l/ATFZdO-hU0dOCqGn1mmFm4W1f1Y3YUMkiaw)
+- Revealing Contents: Tooltips, Popovers and Modals [(notes)](https://www.evernote.com/l/ATFsbZ_cYxNCSbfpGmLY-z9Pd5poNrMxDpY)
