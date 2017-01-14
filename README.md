@@ -18,3 +18,8 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 - Alerting Users [(notes)](https://www.evernote.com/l/ATHtXp0Pf7BBMows2ztCKY1UHOkI0ejlfSY)
 
 :point_up: Assignment 2 Done.
+
+*****
+
+##Week #3:
+*
