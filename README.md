@@ -27,3 +27,10 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 * Hide and Seek: Collapse, Accordion, Scrollspy and Affix [(notes)](https://www.evernote.com/l/ATFZdO-hU0dOCqGn1mmFm4W1f1Y3YUMkiaw)
 - Revealing Contents: Tooltips, Popovers and Modals [(notes)](https://www.evernote.com/l/ATFsbZ_cYxNCSbfpGmLY-z9Pd5poNrMxDpY)
 * Carousel [(notes)](https://www.evernote.com/l/ATGlLoOd7etLYIroFGwCRNrD4Tt8RTZJR1I)
+
+:point_up: Assignment 3 Done.
+
+*****
+
+##Week #4:
+* Bootstrap and JQuery [(notes)](https://www.evernote.com/l/ATEup50l4btGOLqSRwvuwHjPogNqRf3NPHs)
