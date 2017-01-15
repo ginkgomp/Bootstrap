@@ -51,20 +51,28 @@
                     <li><a href="contactus.html"><i class="fa fa-envelope-o"></i> Contact</a></li>
                 </ul>
                     
-                  <form class="navbar-form navbar-right form-inline" role="form">
+                  <form class="navbar-form navbar-right" role="form">
                       
-                          
-                       <input type="email" class="form-control" name="email" placeholder="Email">
-                              <input type="password" class="form-control" name="password" placeholder="Password"> 
-                       <label class="checkbox-inline" style="color:white">
+                          <div class="form-group">
+                              <label class="sr-only" for="email">Email address</label>
+                       <input type="email" class="form-control input-sm" id="email" name="email" placeholder="Email">
+                      </div>
+                      <div class="form-group">
+                          <label class="sr-only" for="password">Password</label>
+                              <input type="password" class="form-control input-sm" id="password" name="password" placeholder="Password">   
+                      </div>
+                      <div class="checkbox">
+                       <label>
                                 <input type="checkbox" name="remember" value="">
                                  Remember me 
                            </label>
-                             ><button type="submit" class="btn btn-info">Sign in</button>
+                      </div>
+                             <button type="submit" class="btn btn-info btn-sm">Sign in</button>
       
                   </form>  
                     
                 </div>
+                
             </div>
 
      </nav>       
@@ -120,7 +128,7 @@
 
             </div>
         </div>
-
+    </div>
 
         <div class="row row-content">
             <div class="col-xs-12 col-sm-3">
@@ -170,45 +178,43 @@
                 </div>
             </div>
         </div>
+    
          <div class="row row-content">
-             <div class="col-xs-12 col-sm-12">
-             <form class="form form-inline" role="form">
+             <div class="col-xs-12">
+             <form class="form" role="form">
                  <div class="media">
-                     <div class="media-left col-sm-3">
-                        <h4 class="caption"> Reserve a Table </h4>
+                     <div class="media-left">
+                        <h4> Reserve a Table </h4>
                      </div>
                      <div class="media-body">
+                         <div class="form-group">
+                          <label class="col-xs-2">Number of Guests</label>
+                             <div class="col-sm-10">
                  <div class="form-group">
-                     <label class="col-xs-12 col-sm-3 text-right">Number of Guests</label>
-                     <div class="col-xs-12 col-sm-9">
                  <label class="radio-inline"><input type="radio" value="1"> 1   </label>
                    <label class="radio-inline"><input type="radio" value="2"> 2  </label>
                       <label class="radio-inline"> <input type="radio" value="3"> 3  </label>
                       <label class="radio-inline"> <input type="radio" value="4"> 4  </label>
                       <label class="radio-inline"> <input type="radio" value="5"> 5  </label>
                      <label class="radio-inline">  <input type="radio" value="6"> 6  </label>
-                     </div>
                  </div>
-                  <div class="form-group">
-                     <label class="media-heading col-sm-3">Date and Time</label>
-                      <div class="col-sm-9">
-                          <div class="row">
-                      <div class="col-sm-6">
-                  <input type="text" class="form-control" name="Date" id="date" placeholder="Date"> 
-                    
+                             </div>
                          </div>
- 
-                 <div class="col-sm-6">
-                     
-                   <input type="text" class="form-control" name="Time" id="time" placeholder="Time">
-                    
-                     </div>
-                          </div>
-                 </div>
+                  <br>
+                         <div class="form-group navbar-form">
+                     <label class="media-heading col-sm-2">Date and Time</label>
+                             <div class="col-sm-10">
+       
+                  <input type="text" class="form-control input-sm" name="Date" id="date" placeholder="Date"><span class="glyphicon glyphicon-calendar"
+                         aria-hidden="true"></span> 
                        
+                   <input type="text" class="form-control input-sm" name="Time" id="time" placeholder="Time"><span class="glyphicon glyphicon-time"
+                         aria-hidden="true"></span> 
+                 </div>
+        
                          </div>
-                         <p style="padding:5px;"></p>
-                         <div class="col-sm-12 col-sm-offset-2">
+                
+                         <div class="btn col-sm-offset-2">
                  <button class="btn btn-primary" type="submit" name="reserve" id="reserve" value="Reserve">Reserve</button>
                              <p style="padding:5px;"></p>
                          </div> 
@@ -218,15 +224,13 @@
                  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span>            </button>
                     <strong>Warning:</strong> Please <a href="tel:+85212345678" class="alert-link">call</a> us to reserve for more than six guests.
                  </div>
-
-                     </div>
                  </div>
+                     </div>
+  
              </form>
-        </div>  
-             <div class="col-xs-12 col-sm-12">
-                 
-             </div>
-        
+
+ 
+    </div>
     </div>
 
     <footer class="row-footer">
@@ -274,6 +278,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+      
 </body>
 
 </html>
