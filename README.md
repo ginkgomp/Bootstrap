@@ -36,3 +36,4 @@ Hope I can keep working on this hands on exercise and finally finish it, learn s
 * Bootstrap and JQuery [(notes)](https://www.evernote.com/l/ATEup50l4btGOLqSRwvuwHjPogNqRf3NPHs)
 - Node.js and Node Package Manager [(notes)](https://www.evernote.com/l/ATH5ZH7qtAdLCLxF6Ar6QVyGtkGF3mLlr-w)
 * Less and Sass [(notes)](https://www.evernote.com/l/ATFoDVh1iDNOUIXCLwwM4yKjVnz-hPGBTxI)
+- Web Tools: Bower [(notes)](https://www.evernote.com/l/ATHHWJnjaLNOe4nYy39vivuORbYjH2WD0wc)
