@@ -1,3 +1,6 @@
+:clap::clap::clap:This course already done!! [FROM Jan.8. TO Jan.15.]
+
+
 This repo is for Coursera Full stack web development.    
 Hope I can keep working on this hands on exercise and finally finish it, learn something from it!
 
